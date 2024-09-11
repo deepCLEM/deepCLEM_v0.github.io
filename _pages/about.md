@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About deepCLEM"
+title: "About deepCLEM (currently under construction)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,7 +19,10 @@ organization of cells by accelerating the data throughput and minimizing the ris
 will enable the development of new kinds of experiments, representing an innovative tool in correlative microscopy.
 ![Workflow](/images/deepCLEM_workflow.png)
 
-
+Principal investigators
+------
+[Biagio Mandracchia](https://bmandracchia.github.io/), PhD.
+[Rosa María Menchón Lara](https://lpi.tel.uva.es/rmenchon), PhD.
 
 Funding information
 ------
