@@ -17,7 +17,7 @@ In this project, we propose to address these challenges by using the latest comp
 platform that can operate in a completely label-free manner. This platform aims to bridge the gap between molecular and morphological
 organization of cells by accelerating the data throughput and minimizing the risk of artifacts during the sample preparation process. This
 will enable the development of new kinds of experiments, representing an innovative tool in correlative microscopy.
-![Workflow](/images/deepCLEM_workflow.jpg)
+![Workflow](/images/deepCLEM_workflow.png)
 
 
 
