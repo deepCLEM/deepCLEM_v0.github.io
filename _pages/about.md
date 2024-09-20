@@ -22,6 +22,7 @@ will enable the development of new kinds of experiments, representing an innovat
 Principal investigators
 ------
 [Biagio Mandracchia](https://bmandracchia.github.io/), PhD.
+
 [Rosa María Menchón Lara](https://lpi.tel.uva.es/rmenchon), PhD.
 
 Funding information
